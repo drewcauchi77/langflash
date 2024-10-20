@@ -1,0 +1,7 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+// Removing node_modules, yarn.lock and npm install > npx react-native run android, fixed this issue
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'App'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')

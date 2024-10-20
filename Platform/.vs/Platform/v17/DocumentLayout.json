@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\models\\icardsetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:models\\icardsetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\models\\langflashdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:models\\langflashdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\models\\cardset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:models\\cardset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\controllers\\cardsetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:controllers\\cardsetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|c:\\users\\cauch\\documents\\projects\\langflash\\platform\\platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC7660FC-CE47-40D5-90AE-2E3142EB75A0}|Platform.csproj|solutionrelative:platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T20:02:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICardSetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\ICardSetRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ICardSetRepository.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\ICardSetRepository.cs",
+              "RelativeToolTip": "Models\\ICardSetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:51:06.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardSetController.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Controllers\\CardSetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardSetController.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Controllers\\CardSetController.cs",
+              "RelativeToolTip": "Controllers\\CardSetController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:49:55.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardSet.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\CardSet.cs",
+              "RelativeDocumentMoniker": "Models\\CardSet.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\CardSet.cs",
+              "RelativeToolTip": "Models\\CardSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:03:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Platform.csproj",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Platform.csproj",
+              "RelativeDocumentMoniker": "Platform.csproj",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Platform.csproj",
+              "RelativeToolTip": "Platform.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T11:44:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LangFlashDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\LangFlashDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\LangFlashDbContext.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\LangFlashDbContext.cs",
+              "RelativeToolTip": "Models\\LangFlashDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:41:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:17:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T21:02:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cauch\\Documents\\Projects\\LangFlash\\Platform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:54:17.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
