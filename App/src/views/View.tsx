@@ -1,9 +1,10 @@
 import React from 'react';
-import { Text } from 'react-native';
+
+import AppText from '../components/global/AppText';
 
 const View = (): React.JSX.Element => {
     return (
-        <Text>View</Text>
+        <AppText text="View" />
     );
 };
 
